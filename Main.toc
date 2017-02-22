@@ -1,0 +1,32 @@
+\select@language {english}
+\contentsline {chapter}{Dedications}{i}{chapter*.1}
+\contentsline {chapter}{Acknowledgments}{ii}{chapter*.2}
+\contentsline {chapter}{General Introduction}{1}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Project context}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Company presentation}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Company Description}{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Accomplishements}{2}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Application context}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}The noticed rise of mobile devices users and internet users }{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}The migration to android }{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Advantages from using mobile apps for news websites }{5}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}conclusion}{5}{subsection.1.2.4}
+\contentsline {chapter}{\numberline {2}Requirements Analysis And application design}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Existing Slutions}{6}{section.2.1}
+\contentsline {subsubsection}{CNN NEWS APPLICATION }{6}{section*.6}
+\contentsline {subsubsection}{FRANCE 24}{10}{section*.7}
+\contentsline {subsubsection}{ASSABAH NEWS : }{15}{section*.8}
+\contentsline {section}{\numberline {2.2}Requirements Analysis}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Informal Requirements Analysis}{16}{subsection.2.2.1}
+\contentsline {subsubsection}{Functional Requirements Analysis}{16}{section*.9}
+\contentsline {subsubsection}{Non Functional Requirements}{17}{section*.10}
+\contentsline {subsection}{\numberline {2.2.2}Semi-formal Requirements Specification }{17}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Application design}{18}{subsection.2.2.3}
+\contentsline {subsubsection}{Sequence diagrams}{18}{section*.11}
+\contentsline {subsubsection}{UI Design}{20}{section*.12}
+\contentsline {chapter}{\numberline {3}Development}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Development environment}{23}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}hardware environment :}{23}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Software environment: }{23}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Choice of development tools}{23}{section.3.2}
+\contentsline {chapter}{\numberline {4}Internship Achievements}{25}{chapter.4}

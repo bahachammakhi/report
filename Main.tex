@@ -1,0 +1,75 @@
+	\documentclass[10pt,a4paper]{report}
+
+% Diff�rentes options pour la classe :
+% - taille de la fonte    : 10pt, 11pt, 12pt
+% - recto ou recto-verso    : oneside, twoside
+% - stade de d�veloppement    : draft, final
+
+% Chargement d'extensions
+%\usepackage[latin1]{inputenc}    % Pour utiliser les lettres accentu�es
+\usepackage[english]{babel}    % Pour la langue fran�aise
+
+%\usepackage[english,francais]{babel}
+\usepackage[latin1]{inputenc}    % Pour utiliser les lettres accentu�es
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,      
+    urlcolor=black,
+}
+ 
+\urlstyle{same}
+%\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[pdftex]{graphicx}
+\usepackage{setspace}
+%\usepackage{hyperref}
+\usepackage[french]{varioref}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{amsmath}
+\usepackage{float}
+
+
+
+
+\pagestyle{fancy}
+\fancyhead[L]{ISTIC}
+\fancyhead[C]{}
+\fancyhead[R]{\rightmark}
+
+
+\fancyfoot[L]{Mobile Application Developement}
+\fancyfoot[C]{}
+\fancyfoot[R]{\textbf{page \thepage}}
+
+
+% D�but du document
+\begin{document}
+
+\include{Garde}
+\newpage
+\pagenumbering{roman}
+\include{Dedicaces}
+\include{Remerciements}
+\tableofcontents    % Table des mati�res
+\listoffigures        % Liste des figures
+\newpage
+\pagenumbering{arabic}
+\include{Introduction}
+\include{Chapitre1}
+\include{Chapitre2}
+\include{Chapitre3}
+\include{chapitre4}
+\include{Conclusion}
+\bibliographystyle{plain}
+\bibliography{biblio.bib}
+
+
+
+% Fin du document
+\end{document}
+
+%hhhhhh 
