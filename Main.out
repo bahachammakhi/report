@@ -1,24 +1,37 @@
 \BOOKMARK [0][-]{chapter*.1}{Dedications}{}% 1
 \BOOKMARK [0][-]{chapter*.2}{Acknowledgments}{}% 2
-\BOOKMARK [0][-]{chapter*.5}{General Introduction}{}% 3
+\BOOKMARK [0][-]{chapter*.6}{General Introduction}{}% 3
 \BOOKMARK [0][-]{chapter.1}{Project context}{}% 4
-\BOOKMARK [1][-]{section.1.1}{Company presentation}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.1.1}{Company Description}{section.1.1}% 6
-\BOOKMARK [2][-]{subsection.1.1.2}{Accomplishements}{section.1.1}% 7
-\BOOKMARK [1][-]{section.1.2}{Application context}{chapter.1}% 8
-\BOOKMARK [2][-]{subsection.1.2.1}{The noticed rise of mobile devices users and internet users }{section.1.2}% 9
-\BOOKMARK [2][-]{subsection.1.2.2}{The migration to android }{section.1.2}% 10
-\BOOKMARK [2][-]{subsection.1.2.3}{Advantages from using mobile apps for news websites }{section.1.2}% 11
-\BOOKMARK [2][-]{subsection.1.2.4}{conclusion}{section.1.2}% 12
-\BOOKMARK [0][-]{chapter.2}{Requirements Analysis And application design}{}% 13
-\BOOKMARK [1][-]{section.2.1}{Existing Slutions}{chapter.2}% 14
-\BOOKMARK [1][-]{section.2.2}{Requirements Analysis}{chapter.2}% 15
-\BOOKMARK [2][-]{subsection.2.2.1}{Informal Requirements Analysis}{section.2.2}% 16
-\BOOKMARK [2][-]{subsection.2.2.2}{Semi-formal Requirements Specification }{section.2.2}% 17
-\BOOKMARK [2][-]{subsection.2.2.3}{Application design}{section.2.2}% 18
-\BOOKMARK [0][-]{chapter.3}{Development}{}% 19
-\BOOKMARK [1][-]{section.3.1}{Development environment}{chapter.3}% 20
-\BOOKMARK [2][-]{subsection.3.1.1}{hardware environment :}{section.3.1}% 21
-\BOOKMARK [2][-]{subsection.3.1.2}{Software environment: }{section.3.1}% 22
-\BOOKMARK [1][-]{section.3.2}{Choice of development tools}{chapter.3}% 23
-\BOOKMARK [0][-]{chapter.4}{Internship Achievements}{}% 24
+\BOOKMARK [1][-]{subsection.1.0.1}{Introduction}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.1}{Company presentation}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.1}{Company Description}{section.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.2}{Company information}{section.1.1}% 8
+\BOOKMARK [1][-]{section.1.2}{Project context}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.2.1}{Need}{section.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.2.2}{Study of the existing}{section.1.2}% 11
+\BOOKMARK [2][-]{subsection.1.2.3}{Foreign of the existing}{section.1.2}% 12
+\BOOKMARK [2][-]{subsection.1.2.4}{Local of the existing}{section.1.2}% 13
+\BOOKMARK [2][-]{subsection.1.2.5}{Benchmarking}{section.1.2}% 14
+\BOOKMARK [2][-]{subsection.1.2.6}{Requirements Specification}{section.1.2}% 15
+\BOOKMARK [2][-]{subsection.1.2.7}{Project Management methodologies }{section.1.2}% 16
+\BOOKMARK [2][-]{subsection.1.2.8}{Project limits}{section.1.2}% 17
+\BOOKMARK [2][-]{subsection.1.2.9}{conclusion}{section.1.2}% 18
+\BOOKMARK [0][-]{chapter.2}{Conception}{}% 19
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.2}{Navigate Diagram}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.3}{Use cases}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.3.1}{Global use case}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.2}{The customer use case}{section.2.3}% 24
+\BOOKMARK [1][-]{section.2.4}{Class diagram}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.5}{Sequence diagram}{chapter.2}% 26
+\BOOKMARK [1][-]{section.2.6}{Mock ups}{chapter.2}% 27
+\BOOKMARK [1][-]{section.2.7}{Conclusion}{chapter.2}% 28
+\BOOKMARK [0][-]{chapter.3}{Development}{}% 29
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.2}{Choice of technical tools}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.3}{Development environment}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.1}{hardware environment :}{section.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.2}{Software environment: }{section.3.3}% 34
+\BOOKMARK [1][-]{section.3.4}{Choice of development tools}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.5}{Conclusion}{chapter.3}% 36
+\BOOKMARK [0][-]{chapter.4}{Internship Achievements}{}% 37
